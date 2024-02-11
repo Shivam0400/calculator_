@@ -1,2 +1,3 @@
 # calculator_
-This is a simle calculator created by me ..
+This is a simple calculator created by me ..
+using html, css and javascript...
