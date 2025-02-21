@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
   }
-  h{
+  /* h{
     position: fixed;
      top: 2%;
      left: 40%;
@@ -12,7 +12,13 @@
     text-shadow: #ff4136;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style:unset;
-    
+} */
+
+#heading{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
   
   .calculator {
