@@ -2,4 +2,6 @@
 This is a simple calculator created by me ..
 using html, css and javascript...
 
-now this repo is forked by anikesh roy
+This repo is forked by anikesh roy
+it means that anikesh roy is also contributed in this repo
+
